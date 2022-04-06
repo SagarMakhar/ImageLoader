@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageLoader</string>
+    <string name="blur">Blur</string>
+    <string name="greyscale">Greyscale</string>
+    <string name="load_new_image">Load New Image</string>
+    <string name="no_internet_connection">Network unavailable !</string>
+</resources>

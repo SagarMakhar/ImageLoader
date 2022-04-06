@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageLoader</string>
+    <string name="blur">अस्पष्ट</string>
+    <string name="greyscale">ग्रे करा</string>
+    <string name="load_new_image">नवीन फोटो मिळवा</string>
+    <string name="no_internet_connection">कोणतेही नेटवर्क उपलब्ध नाही !</string>
+</resources>
