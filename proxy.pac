@@ -6,5 +6,6 @@ function FindProxyForURL(url, host) {
 
 
 // DEFAULT RULE: All other traffic, send direct.
-    return "DIRECT";
+    //return "DIRECT";
+    return "PROXY 10.79.30.35:3128";
 }
